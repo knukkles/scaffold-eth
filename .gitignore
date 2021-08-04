@@ -8,7 +8,7 @@ packages/hardhat/*.txt
 packages/hardhat/artifacts
 packages/react-app/src/contracts
 packages/hardhat/cache
-
+.yarn 
 docker/**/data
 
 packages/subgraph/config/config.json
